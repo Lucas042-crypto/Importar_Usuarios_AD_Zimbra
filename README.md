@@ -16,7 +16,6 @@ yum install openldap*
 
 #!/bin/bash
 
-### INSTALAR yum install l
 PATH=/usr/sbin:/usr/local/bin:/usr/bin:/bin
 export PATH
 
